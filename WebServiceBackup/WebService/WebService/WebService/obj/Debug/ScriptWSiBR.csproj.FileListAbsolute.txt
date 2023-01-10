@@ -1,0 +1,407 @@
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\ScriptWSiBR.dll.config
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\ScriptWSiBR.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\ScriptWSiBR.pdb
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csc.exe
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csc.exe.config
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csc.rsp
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csi.exe
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csi.exe.config
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csi.rsp
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.AppContext.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Collections.Immutable.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Console.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Globalization.Calendars.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.Compression.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.FileSystem.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Net.Http.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Net.Sockets.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Reflection.Metadata.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.ValueTuple.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.XPath.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\vbc.exe
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\vbc.exe.config
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\vbc.rsp
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\VBCSCompiler.exe
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\VBCSCompiler.exe.config
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\Antlr3.Runtime.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\log4net.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\Microsoft.Web.Infrastructure.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\Newtonsoft.Json.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Net.Http.Formatting.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Helpers.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.WebHost.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Mvc.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Optimization.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Razor.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Deployment.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Razor.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\WebGrease.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\log4net.xml
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\Newtonsoft.Json.xml
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Net.Http.Formatting.xml
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Helpers.xml
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.xml
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.WebHost.xml
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Mvc.xml
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Optimization.xml
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Razor.xml
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.xml
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Deployment.xml
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Razor.xml
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\Antlr3.Runtime.pdb
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Net.Http.Formatting.resources.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Helpers.resources.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Http.resources.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Http.WebHost.resources.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Mvc.resources.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Optimization.resources.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Razor.resources.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.WebPages.resources.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.WebPages.Deployment.resources.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.WebPages.Razor.resources.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.csprojAssemblyReference.cache
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.csproj.CoreCompileInputs.cache
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.csproj.CopyComplete
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.pdb
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\INIFileParser.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\PureCloudPlatform.Client.V2.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\RestSharp.dll
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\INIFileParser.xml
+H:\Repositorio-Clonado\iBR\ScriptWS\DesarrolloWS_Script_iBR\ScriptWSiBR\ScriptWSiBR\bin\PureCloudPlatform.Client.V2.xml
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\ScriptWSiBR.dll.config
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\ScriptWSiBR.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\ScriptWSiBR.pdb
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csc.exe
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csc.exe.config
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csc.rsp
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csi.exe
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csi.exe.config
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csi.rsp
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.AppContext.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Console.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.Compression.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Net.Http.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.ValueTuple.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\vbc.exe
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\vbc.exe.config
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\vbc.rsp
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\VBCSCompiler.exe
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\Antlr3.Runtime.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\INIFileParser.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\log4net.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\Newtonsoft.Json.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\PureCloudPlatform.Client.V2.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\RestSharp.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Net.Http.Formatting.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Helpers.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.WebHost.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Mvc.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Optimization.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Razor.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Razor.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\WebGrease.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\INIFileParser.xml
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\log4net.xml
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\PureCloudPlatform.Client.V2.xml
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\Newtonsoft.Json.xml
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Net.Http.Formatting.xml
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Helpers.xml
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.xml
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.WebHost.xml
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Mvc.xml
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Optimization.xml
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Razor.xml
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.xml
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Razor.xml
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\Antlr3.Runtime.pdb
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Helpers.resources.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Http.resources.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Mvc.resources.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Optimization.resources.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Razor.resources.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.WebPages.resources.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.csprojAssemblyReference.cache
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.csproj.CoreCompileInputs.cache
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.csproj.CopyComplete
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.dll
+C:\Users\reyes\Desktop\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.pdb
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\ScriptWSiBR.dll.config
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\ScriptWSiBR.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\ScriptWSiBR.pdb
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csc.exe
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csc.exe.config
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csc.rsp
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csi.exe
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csi.exe.config
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csi.rsp
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.AppContext.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Console.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Net.Http.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\vbc.exe
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\vbc.exe.config
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\vbc.rsp
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\Antlr3.Runtime.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\INIFileParser.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\log4net.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\Newtonsoft.Json.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\PureCloudPlatform.Client.V2.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\RestSharp.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Net.Http.Formatting.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Helpers.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.WebHost.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Mvc.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Optimization.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Razor.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\WebGrease.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\INIFileParser.xml
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\log4net.xml
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\PureCloudPlatform.Client.V2.xml
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\Newtonsoft.Json.xml
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Net.Http.Formatting.xml
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Helpers.xml
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.xml
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.WebHost.xml
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Mvc.xml
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Optimization.xml
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Razor.xml
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.xml
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\Antlr3.Runtime.pdb
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Http.resources.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Razor.resources.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.csproj.CoreCompileInputs.cache
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.csproj.CopyComplete
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.dll
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.pdb
+C:\Users\Luis Reyes Barreto\Desktop\Proyectos\IBR\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.csproj.AssemblyReference.cache
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\ScriptWSiBR.dll.config
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\ScriptWSiBR.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\ScriptWSiBR.pdb
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csc.exe
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csc.exe.config
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csc.rsp
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csi.exe
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csi.exe.config
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csi.rsp
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.AppContext.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Console.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Net.Http.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\vbc.exe
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\vbc.exe.config
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\vbc.rsp
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\Antlr3.Runtime.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\INIFileParser.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\log4net.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\Newtonsoft.Json.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\PureCloudPlatform.Client.V2.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\RestSharp.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Net.Http.Formatting.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Helpers.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.WebHost.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Mvc.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Optimization.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Razor.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\WebGrease.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\INIFileParser.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\log4net.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\PureCloudPlatform.Client.V2.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\Newtonsoft.Json.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Net.Http.Formatting.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Helpers.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.WebHost.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Mvc.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Optimization.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Razor.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\Antlr3.Runtime.pdb
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Http.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Razor.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.csproj.CoreCompileInputs.cache
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.csproj.CopyComplete
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.pdb

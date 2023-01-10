@@ -1,0 +1,305 @@
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\ScriptWSiBR.dll.config
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\ScriptWSiBR.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\ScriptWSiBR.pdb
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csc.exe
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csc.exe.config
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csc.rsp
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csi.exe
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csi.exe.config
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\csi.rsp
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.AppContext.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Console.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Net.Http.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\vbc.exe
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\vbc.exe.config
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\vbc.rsp
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\Antlr3.Runtime.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\INIFileParser.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\log4net.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\Newtonsoft.Json.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\PureCloudPlatform.Client.V2.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\RestSharp.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Net.Http.Formatting.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Helpers.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.WebHost.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Mvc.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Optimization.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Razor.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\WebGrease.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\INIFileParser.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\log4net.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\PureCloudPlatform.Client.V2.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\Newtonsoft.Json.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Net.Http.Formatting.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Helpers.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Http.WebHost.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Mvc.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Optimization.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.Razor.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\Antlr3.Runtime.pdb
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Http.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.Razor.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\obj\Debug\WebService.csproj.CopyComplete
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\ScriptWSiBR\obj\Debug\ScriptWSiBR.pdb
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\WebService.dll.config
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\WebService.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\WebService.pdb
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\csc.exe
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\csc.exe.config
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\csc.rsp
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\csi.exe
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\csi.exe.config
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\csi.rsp
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.AppContext.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Console.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.IO.Compression.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Net.Http.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.ValueTuple.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\vbc.exe
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\vbc.exe.config
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\vbc.rsp
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\Antlr3.Runtime.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\INIFileParser.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\log4net.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\Newtonsoft.Json.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\PureCloudPlatform.Client.V2.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\RestSharp.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Net.Http.Formatting.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Web.Helpers.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Web.Http.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Web.Http.WebHost.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Web.Mvc.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Web.Optimization.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Web.Razor.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Web.WebPages.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\WebGrease.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\INIFileParser.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\log4net.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\PureCloudPlatform.Client.V2.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\Newtonsoft.Json.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Net.Http.Formatting.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Web.Helpers.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Web.Http.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Web.Http.WebHost.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Web.Mvc.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Web.Optimization.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Web.Razor.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Web.WebPages.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\Antlr3.Runtime.pdb
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\es\System.Web.Http.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\es\System.Web.Razor.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\obj\Debug\WebService.csproj.AssemblyReference.cache
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\obj\Debug\WebService.csproj.CopyComplete
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\obj\Debug\WebService.dll
+C:\Users\Luis Reyes Barreto\OneDrive - Interacciones Inteligentes S.A\Proyectos\GrupoUTP\CASE\ScriptWSiBR\WebService\obj\Debug\WebService.pdb
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\WebService.dll.config
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\WebService.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\WebService.pdb
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\csc.exe
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\csc.exe.config
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\csc.rsp
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\csi.exe
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\csi.exe.config
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\csi.rsp
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.AppContext.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Collections.Immutable.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Console.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Globalization.Calendars.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.IO.Compression.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.IO.FileSystem.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Net.Http.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Net.Sockets.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Reflection.Metadata.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.ValueTuple.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Xml.XPath.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\vbc.exe
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\vbc.exe.config
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\vbc.rsp
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\VBCSCompiler.exe
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\roslyn\VBCSCompiler.exe.config
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\Antlr3.Runtime.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\INIFileParser.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\log4net.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\Microsoft.Web.Infrastructure.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\Newtonsoft.Json.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\PureCloudPlatform.Client.V2.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\RestSharp.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Net.Http.Formatting.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Web.Helpers.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Web.Http.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Web.Http.WebHost.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Web.Mvc.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Web.Optimization.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Web.Razor.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Web.WebPages.Deployment.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Web.WebPages.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Web.WebPages.Razor.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\WebGrease.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\INIFileParser.xml
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\log4net.xml
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\PureCloudPlatform.Client.V2.xml
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\Newtonsoft.Json.xml
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Net.Http.Formatting.xml
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Web.Helpers.xml
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Web.Http.xml
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Web.Http.WebHost.xml
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Web.Mvc.xml
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Web.Optimization.xml
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Web.Razor.xml
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Web.WebPages.xml
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Web.WebPages.Deployment.xml
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\System.Web.WebPages.Razor.xml
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\Antlr3.Runtime.pdb
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\es\System.Net.Http.Formatting.resources.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\es\System.Web.Helpers.resources.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\es\System.Web.Http.resources.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\es\System.Web.Http.WebHost.resources.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\es\System.Web.Mvc.resources.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\es\System.Web.Optimization.resources.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\es\System.Web.Razor.resources.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\es\System.Web.WebPages.resources.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\obj\Debug\WebService.csproj.AssemblyReference.cache
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\obj\Debug\WebService.csproj.CopyComplete
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\obj\Debug\WebService.dll
+C:\DiscoD\EC_UTP\ENCUESTA_NPS_SAE_UTP\WebService\WebService\WebService\obj\Debug\WebService.pdb
